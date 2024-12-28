@@ -14,7 +14,7 @@ A versatile mobile application integrating mapping functionality and data manage
 - File Picker
 
 ## Screenshots:
-- [Permission](Multi-Tasking-App/work_task/screenshot/allowPermission.jpg)        
+- [Permission](Multi-Tasking%20App/work_task/screenshot/allowPermission.jpg)
 - [Bookmark](FilmFav/f11/screenshot/bookmark.jpg)
 - [Bookmark details](FilmFav/f11/screenshot/bookmarkdetails.jpg)       
 - [Loading home](FilmFav/f11/screenshot/loadingHome.jpg)
